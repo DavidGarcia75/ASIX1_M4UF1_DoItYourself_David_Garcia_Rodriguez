@@ -8,6 +8,7 @@
 3. Los `<h3>` usara el color rgb(10,205,124)
 
 4. El `<body>` contendra un relleno del 15%, el color de la letra sera blanco y la fuente de la letra sera "fantasy".
+(Recuerda que el body contiene una imagen de fondo,utiliza el comando background-image)
 
 5. Los `<ul>` usaran 16px para el tamaño de la fuente, el "line-height" sera de 2 y el espacio entre letras sera de 1px
 
